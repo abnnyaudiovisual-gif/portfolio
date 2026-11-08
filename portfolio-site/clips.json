@@ -1,0 +1,345 @@
+{
+ "site": {
+  "role": "video editor",
+  "eyebrow": "Reel · 2026",
+  "h1a": "Cuts that hook",
+  "h1b": "until the",
+  "h1em": "last frame",
+  "lead": "I edit direct-response ads and UGC, plus sports editorial content with motion graphics — from the first rough cut to the piece going live.",
+  "footerTitle": "Hey, let's edit?",
+  "cta": "Message on WhatsApp →",
+  "footerNote": "Portfolio · updated 2026"
+ },
+ "clips": [
+  {
+   "slug": "leaftide-ml14",
+   "client": "H&W Publising",
+   "title": "14_BM [LeafTide] ML",
+   "desc": "Another mid-roll variant for the same client.",
+   "cat": "ads",
+   "dur": "0:25",
+   "ar": "0.563",
+   "drive": "1Ew0K7nb2-zPniJn4YkBlz2P4oOrBriGx",
+   "poster": "posters/leaftide-ml14.jpg"
+  },
+  {
+   "slug": "leaftide-ml04-capsules",
+   "client": "H&W Publising",
+   "title": "ML 04 [OT] 222_BM LeafTide",
+   "desc": "Mid-video ad insert with captions and B-roll, 4:5 format.",
+   "cat": "ads",
+   "dur": "0:30",
+   "ar": "0.800",
+   "drive": "1ZEkxt-Xm8JUABFg4gFCRU8fvAibLSHvs",
+   "poster": "posters/leaftide-ml04-capsules.jpg"
+  },
+  {
+   "slug": "criativo-icf1d",
+   "client": "TechFinance®️",
+   "title": "ICF1D",
+   "desc": "Direct-response ad piece, single cut.",
+   "cat": "ads",
+   "dur": "0:24",
+   "ar": "0.563",
+   "drive": "1PuTgrSAOePqF4M2DYao9DbNIElphwKk_",
+   "poster": "posters/criativo-icf1d.jpg"
+  },
+  {
+   "slug": "la-stat-semana",
+   "client": "PASSIONMAILLOT",
+   "link": "https://www.instagram.com/passsionmaillot/",
+   "title": "Stat of the Week · 2026 World Cup",
+   "desc": "Sports editorial content with motion graphics and data.",
+   "cat": "edit",
+   "dur": "0:25",
+   "ar": "0.563",
+   "drive": "1c8fiyxOurv9NGQzuXbx5d-4gZ7x7NtUv",
+   "poster": "posters/la-stat-semana.jpg"
+  },
+  {
+   "slug": "top5-maillots",
+   "client": "PASSIONMAILLOT",
+   "link": "https://www.instagram.com/passsionmaillot/",
+   "title": "Top 5 Legendary Jerseys",
+   "desc": "Editorial ranking with transitions and animated graphics.",
+   "cat": "edit",
+   "dur": "0:25",
+   "ar": "0.563",
+   "drive": "1qvgFS_qQs8SQyJeBjpOe-XyUsIeDHODT",
+   "poster": "posters/top5-maillots.jpg"
+  },
+  {
+   "slug": "les-oublies",
+   "client": "PASSIONMAILLOT",
+   "link": "https://www.instagram.com/passsionmaillot/",
+   "title": "The Forgotten Ones",
+   "desc": "A history piece on football's forgotten players.",
+   "cat": "edit",
+   "dur": "0:25",
+   "ar": "0.563",
+   "drive": "1r3cmLZMrlY08HQqAOatJHEboH1rXe0zH",
+   "poster": "posters/les-oublies.jpg"
+  },
+  {
+   "slug": "un-oeil-dans-le-retro",
+   "client": "PASSIONMAILLOT",
+   "link": "https://www.instagram.com/passsionmaillot/",
+   "title": "A Look in the Rearview",
+   "desc": "Historical retrospective with dynamic editorial pacing.",
+   "cat": "edit",
+   "dur": "0:25",
+   "ar": "0.563",
+   "drive": "1Eh9A0EdAem-OSTuSBWUv1rgeugsmZNow",
+   "poster": "posters/un-oeil-dans-le-retro.jpg"
+  },
+  {
+   "slug": "intro",
+   "client": "SyncPixels",
+   "title": "Channel Opener",
+   "desc": "Opening vignette, widescreen format.",
+   "cat": "edit",
+   "dur": "0:17",
+   "ar": "1.776",
+   "drive": "1JexfL7Fb5ammUneJ5EGC6Qwja0sxNu4l",
+   "poster": "posters/intro.jpg"
+  },
+  {
+   "slug": "dicas-gestao-tempo",
+   "client": "Inspira JA",
+   "title": "Time Management Tips",
+   "desc": "Educational video, dynamic talking-head edit.",
+   "cat": "edit",
+   "dur": "0:25",
+   "ar": "1.776",
+   "drive": "1AQYV7RMzaM255WQaz3p6wP4NkdDt0G6D",
+   "poster": "posters/dicas-gestao-tempo.jpg"
+  },
+  {
+   "slug": "layerlemonade-aluminum-tea",
+   "client": "Layer Lemonade",
+   "title": "Aluminum Tea",
+   "desc": "Motion design banner for an online game promo.",
+   "cat": "edit",
+   "dur": "0:08",
+   "ar": "1.778",
+   "drive": "1GTaek-i1OcE-EH1yk1NHtJTEPOJHUsyD",
+   "poster": "posters/layerlemonade-aluminum-tea.jpg"
+  },
+  {
+   "slug": "layerlemonade-happy-hour-ed1",
+   "client": "Empreender Dinheiro",
+   "title": "Happy Hour · Edit 1",
+   "desc": "Animated web banner, first edit of the set.",
+   "cat": "edit",
+   "dur": "0:08",
+   "ar": "2.807",
+   "drive": "1ZdRBJW57hiNAXRgDa438lZ2VOAnQnpo_",
+   "poster": "posters/layerlemonade-happy-hour-ed1.jpg"
+  },
+  {
+   "slug": "layerlemonade-happy-hour-ed2",
+   "client": "Empreender Dinheiro",
+   "title": "Happy Hour · Edit 2",
+   "desc": "Animated web banner, second edit of the set.",
+   "cat": "edit",
+   "dur": "0:10",
+   "ar": "2.807",
+   "drive": "1sFyqY8DeXoVFmxNbVImWX9TyB9tifIbc",
+   "poster": "posters/layerlemonade-happy-hour-ed2.jpg"
+  },
+  {
+   "slug": "layerlemonade-happy-hour-ed3",
+   "client": "Empreender Dinheiro",
+   "title": "Happy Hour · Edit 3",
+   "desc": "Animated web banner, third edit of the set.",
+   "cat": "edit",
+   "dur": "0:10",
+   "ar": "2.807",
+   "drive": "1IRDEYF7vpvsg2diUsNfKQwEghGG3OPgk",
+   "poster": "posters/layerlemonade-happy-hour-ed3.jpg"
+  },
+  {
+   "slug": "layerlemonade-super-pinball",
+   "client": "Layer Lemonade",
+   "title": "Super Pinball Machine",
+   "desc": "Motion design banner for an online game promo.",
+   "cat": "edit",
+   "dur": "0:06",
+   "ar": "1.778",
+   "drive": "1rVp96KExEHgxC3QL8maR-33pG6RFTAbH",
+   "poster": "posters/layerlemonade-super-pinball.jpg"
+  },
+  {
+   "slug": "social-football-academy",
+   "client": "Social Football Academy",
+   "title": "Academy Content",
+   "desc": "Social content edit for a football academy brand.",
+   "cat": "edit",
+   "dur": "0:25",
+   "ar": "0.562",
+   "drive": "1bnW_gjgYS9K4pPcFy2Xi6IFZ4dXsmhUr",
+   "poster": "posters/social-football-academy.jpg"
+  },
+  {
+   "slug": "stages-esmi",
+   "client": "ESMI",
+   "title": "Internship Program",
+   "desc": "Promotional edit for a school's internship program.",
+   "cat": "edit",
+   "dur": "0:20",
+   "ar": "1.778",
+   "drive": "1H_5TeFcYU5oiz4-pbGdWKFEqSLnkvKxW",
+   "poster": "posters/stages-esmi.jpg"
+  },
+  {
+   "slug": "drive-1chbxs96",
+   "cat": "long",
+   "client": "",
+   "title": "ArtiBrex edit — Squad A",
+   "desc": "",
+   "dur": "",
+   "ar": "1.778",
+   "drive": "1CHbXs96FWt3RfuvZEqJd712fVQ_GRy1v"
+  },
+  {
+   "slug": "drive-1m3mdah4",
+   "cat": "long",
+   "client": "",
+   "title": "VSL — Strategy Session",
+   "desc": "",
+   "dur": "",
+   "ar": "1.778",
+   "drive": "1m3mDAh4UAAeMeH4egBVmdI7vs7uVB13_"
+  },
+  {
+   "slug": "drive-1ifn0wt1",
+   "cat": "long",
+   "client": "",
+   "title": "KailonYTB",
+   "desc": "",
+   "dur": "",
+   "ar": "1.778",
+   "drive": "1IfN0WT1HwMza1i7rJruEqNek4oJgSS0e"
+  },
+  {
+   "slug": "drive-1udiarx0",
+   "cat": "long",
+   "client": "",
+   "title": "First Express Meeting Prep",
+   "desc": "",
+   "dur": "",
+   "ar": "1.778",
+   "drive": "1UdIaRX0blJkX8K3R3TaFIzxMP05dHWu_"
+  },
+  {
+   "slug": "drive-19gw4_xw",
+   "cat": "long",
+   "client": "",
+   "title": "Sales Video Draft",
+   "desc": "",
+   "dur": "",
+   "ar": "1.778",
+   "drive": "19GW4_xWz-7MPauC2N1xjO39JyRCRKgVk"
+  },
+  {
+   "slug": "drive-1-v58w4c",
+   "cat": "edit",
+   "client": "",
+   "title": "Leonardo Lamartine",
+   "desc": "",
+   "dur": "",
+   "ar": "1.778",
+   "drive": "1-v58W4Cnvc-SnwIREJuI_TibS_X9SB2v"
+  },
+  {
+   "slug": "drive-1emmrls5",
+   "cat": "edit",
+   "client": "",
+   "title": "Luísa Saldanha",
+   "desc": "",
+   "dur": "",
+   "ar": "1.778",
+   "drive": "1eMmRLS5TsJe9BoDAx9nS560uiq_Atstn"
+  },
+  {
+   "slug": "drive-1awnr8ah",
+   "cat": "edit",
+   "client": "",
+   "title": "Ed Capital 16x9",
+   "desc": "",
+   "dur": "",
+   "ar": "1.778",
+   "drive": "1awNr8AHffRDfT2OdoqQisYLxYy4FOp2b"
+  },
+  {
+   "slug": "drive-1x3nfd7f",
+   "cat": "edit",
+   "client": "",
+   "title": "Ordus System — Day 1",
+   "desc": "",
+   "dur": "",
+   "ar": "1.778",
+   "drive": "1X3nfD7FYDhDx_yD8MduFMJU8MazV7I7M"
+  },
+  {
+   "slug": "drive-1zv5vyiy",
+   "cat": "ads",
+   "client": "",
+   "title": "Keila Lucena 03",
+   "desc": "",
+   "dur": "",
+   "ar": "1.778",
+   "drive": "1zv5VYiye8XVpuHCAzJFecRH5Bh5W6xlS"
+  },
+  {
+   "slug": "drive-1joppmj3",
+   "cat": "ads",
+   "client": "",
+   "title": "CinnaShield ML02 — Squad A",
+   "desc": "",
+   "dur": "",
+   "ar": "1.778",
+   "drive": "1joppmJ3N1ixpBZtUkparMvAVJYuu0Vhk"
+  },
+  {
+   "slug": "drive-19qr71ps",
+   "cat": "ads",
+   "client": "",
+   "title": "LeafTide AD02 H3B1",
+   "desc": "",
+   "dur": "",
+   "ar": "1.778",
+   "drive": "19Qr71PSL6RFVhBXumy1MeEGZNwVDD2Pn"
+  },
+  {
+   "slug": "drive-1gyfxek5",
+   "cat": "ads",
+   "client": "",
+   "title": "LeafTide ML 04",
+   "desc": "",
+   "dur": "",
+   "ar": "1.778",
+   "drive": "1GyfxEk5RkFQbaWP_re17drvxeSm1Ax5e"
+  },
+  {
+   "slug": "drive-1mlefczl",
+   "cat": "ads",
+   "client": "",
+   "title": "Criativo Club (Rafael) v2",
+   "desc": "",
+   "dur": "",
+   "ar": "1.778",
+   "drive": "1mLEFczln9hFjhN0DUI-kv8gLVGCLm3F_"
+  },
+  {
+   "slug": "drive-1yi1zbfc",
+   "cat": "ads",
+   "client": "",
+   "title": "Criativo 01",
+   "desc": "",
+   "dur": "",
+   "ar": "1.778",
+   "drive": "1yI1ZBFCWjS6kIl_li8492k7MPsOCSI7L"
+  }
+ ]
+}
